@@ -1,0 +1,23 @@
+{
+  "name": "czapraga_lukasz_pr_02",
+  "version": "1.0.0",
+  "description": "Second task",
+  "main": "match_tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Czapraga",
+  "license": "ISC",
+  "jshintConfig": {
+    "esversion": 6,
+    "undef": true,
+    "unused": true,
+    "maxparams": 3,
+    "globals": [
+      "console"
+    ]
+  },
+  "dependencies": {
+    "jshint": "^2.13.5"
+  }
+}
